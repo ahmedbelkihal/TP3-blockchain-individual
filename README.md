@@ -3,7 +3,7 @@
 ## 1. Sujet choisi
 Étude et explication d'une transaction réelle sur le réseau Bitcoin TestNet4, avec un focus particulier sur la consommation des UTXO (Unspent Transaction Outputs) et le calcul des frais de transaction.
 
-## 2. Démarche
+# 2. Démarche
 1. Connexion à un explorateur de blocs public pour le réseau Bitcoin TestNet4.
 2. Sélection et observation d'une transaction validée récente.
 3. Décomposition des données brutes de la transaction pour identifier :
